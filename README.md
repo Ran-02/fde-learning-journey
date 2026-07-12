@@ -54,6 +54,3 @@
 ## 📝 学习记录
 - [第1周：Python工程化基础](./01-基础夯实期/01-Python工程化/week1-summary.md)
 - [第2周：Linux、Git与FastAPI](./01-基础夯实期/02-Linux与Git/week2-summary.md)
-
-## 📞 联系方式
-- 📧 邮箱：liuweiranwork@163.com
